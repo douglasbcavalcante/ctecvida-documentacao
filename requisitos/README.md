@@ -5,7 +5,7 @@
 Baseado nas especificações para o desenvolvimento de tecnologia assistiva no TECVIDA, o exoesqueleto de membros inferiores deve atender aos seguintes requisitos:
 
 - [Requisitos gerais](./exoesqueleto/requisitos_gerais.md)
-- [Requisitos mecânicos](./exoesqueleto/requisitos_gerais.md)
+- [Requisitos mecânicos](./exoesqueleto/requisitos_mecanicos.md)
 - [Requisitos de hardware](./exoesqueleto/requisitos_hardware.md)
 - [Requisitos de software](./exoesqueleto/requisitos_software.md)
 
